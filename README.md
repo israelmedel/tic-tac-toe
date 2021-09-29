@@ -11,10 +11,10 @@ Implementation of a tic-tac-toe game.
 
 **Instructions**
 
-1. Download the project from 
+1. Download the project from https://github.com/israelmedel/tic-tac-toe.git
 
 ```
-git clone 
+git clone https://github.com/israelmedel/tic-tac-toe.git
 ```
 
 2. Go to the root directory 
